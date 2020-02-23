@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TP1Exercice8</string>
+    <string name="departure_label">Départ :</string>
+    <string name="departure_hint">Ex : Montpellier</string>
+    <string name="arrival_label">Arrivée :</string>
+    <string name="search_btn_text">Rechercher</string>
+    <string name="arrival_field">Ex : Marseille</string>
+    <string name="schedules_label">Horaires :</string>
+    <string name="departure_montpellier">Départ : Montpellier</string>
+    <string name="arrival_marseille">Arrivée : Marseille</string>
+    <string name="schedule1">Itinéraire n°1</string>
+    <string name="route1">Itinéraire n°1</string>
+    <string name="departure_hour_1">Départ : 08:15</string>
+    <string name="arrival_hour_1">Arrivée : 10:20</string>
+    <string name="duration1">Durée : 2:05</string>
+    <string name="route2">Itinéraire n°2</string>
+    <string name="departure_hour_2">Départ : 10:30</string>
+    <string name="arrival_hour_2">Arrivée : 12:20</string>
+    <string name="duration2">Durée : 1:50</string>
+    <string name="RouteSearchLabel">Rechercher un trajet</string>
+</resources>

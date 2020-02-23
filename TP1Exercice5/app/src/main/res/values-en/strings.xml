@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1Exercise5</string>
+    <string name="name_label">Name</string>
+    <string name="first_name_label">First name</string>
+    <string name="age_label">Age</string>
+    <string name="skill_label">Skill</string>
+    <string name="phone_label">Phone number</string>
+    <string name="name_hint">Example : Smith</string>
+    <string name="first_name_hint">Exemple : John</string>
+    <string name="age_hint">Example : 30</string>
+    <string name="phone_hint">Exemple : +14155552671</string>
+    <string name="validate_btn_text">Validate</string>
+</resources>

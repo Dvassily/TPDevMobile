@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1Exercice6</string>
+    <string name="name_label">Nom</string>
+    <string name="first_name_label">Prénom</string>
+    <string name="age_label">Âge</string>
+    <string name="skill_label">Domaine de compétence</string>
+    <string name="phone_label">Numéro de téléphone</string>
+    <string name="name_hint">Exemple : Pierre</string>
+    <string name="first_name_hint">Exemple : Jean</string>
+    <string name="age_hint">Exemple : 30</string>
+    <string name="phone_hint">Exemple : 0678432564</string>
+    <string name="validate_btn_text">Valider</string>
+    <string name="name_row">Nom :</string>
+    <string name="first_name_row">Prénom :</string>
+    <string name="age_row">Âge :</string>
+    <string name="skill_row">Domaine de compétence :</string>
+    <string name="phone_row">Numéro de téléphone :</string>
+    <string name="ok_btn_text">OK</string>
+    <string name="back_btn_text">Retour</string>
+</resources>
