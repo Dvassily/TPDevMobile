@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP2Exercice2</string>
+    <string name="show_list_btn_text">Afficher la liste</string>
+    <string name="add_contact_btn_text">Ajouter le contact</string>
+    <string name="name_label">Nom :</string>
+    <string name="first_name_label">Prénom :</string>
+    <string name="phone_label">Numéro de téléphone :</string>
+    <string name="contact_list_title">Liste des contacts :</string>
+</resources>
